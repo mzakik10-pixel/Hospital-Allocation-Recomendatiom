@@ -1,4 +1,4 @@
-# 🏥 CrowdAID - Smart Hospital Recommendation System
+# 🏥 CrowdAID Banten - Smart Hospital Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red) ![ML](https://img.shields.io/badge/ML-Random%20Forest%20%7C%20XGBoost-green) ![SDG](https://img.shields.io/badge/SDG-3%20Good%20Health-orange)
 
@@ -118,16 +118,12 @@ CrowdAID/
 
 ## 👥 Created By
 
-**Group [Your Group Number]**
-- [Student 1 Name] - [NIM]
-- [Student 2 Name] - [NIM]
-- [Student 3 Name] - [NIM]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+**Group 3**
+- Daniel Isacc Francis Wibowo - 2802541972
+- Muhammad Zaki Kurniawan - 2802541524
+- NG Christian Nababan - 2802547843
+- Richie Vic Raymond - 2802551102
+- Aureylius Crystaldo Darmadji - 2802579851
 
 ---
 
@@ -139,4 +135,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ for better healthcare access in Indonesia
+Made with ❤️ for better healthcare access in Indonesia, especially Banten..
