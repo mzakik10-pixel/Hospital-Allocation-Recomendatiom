@@ -48,8 +48,8 @@ The application serves as an **MVP (Minimum Viable Product)** with real-time occ
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CrowdAID.git
-cd CrowdAID
+git clone https://github.com/mzakik10-pixel/Hospital-Allocation-Recomendatiom
+cd Hospital-Allocation-Recomendatiom
 ```
 
 ### 2. Install Dependencies
