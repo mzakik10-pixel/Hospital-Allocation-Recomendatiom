@@ -1,0 +1,131 @@
+id;nama;propinsi;kab;alamat;jenis;kelas;status_blu;kepemilikan;total_tempat_tidur;total_layanan;total_tenaga_kerja
+3175414;RS Umum Daerah Cilincing;DKI Jakarta;Kota Jakarta Utara;Jl. Madya Kebantenan Nomor 4, Semper Timur, Cilincing;Rumah Sakit Umum;C;BLUD;Pemprop;102;51;233
+3672003;RS Ibu dan Anak Mutiara Bunda;Banten;Kota Cilegon;Jl. S.A.Tirtayasa Ruko Maisonnete Blok B1-8 Simpang Tiga, Ramanuju, Purwakarta, Cilegon, Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;30;29;0
+3604050;RS Permata Serdang;Banten;Serang;Jl. Raya Waringin Kurung RT 001/ RW 003, Desa Serdang, Kecamatan Kramatwatu, Kabupaten Serang, Provinsi Banten;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;61;20;65
+3602011;RS Umum Daerah Dr. Adjidarmo;Banten;Lebak;Jl. Iko Jatmiko No. 1 Rangkasbitung;Rumah Sakit Umum;B;BLUD;Pemkab;310;73;633
+3603181;RS Bethsaida;Banten;Tangerang;Jl. Boulevard Raya Gading Serpong Kav. 29, Tangerang;Rumah Sakit Umum;B;BLU;Perusahaan;210;77;660
+3674157;RS Columbia Asia BSD;Banten;Kota Tangerang Selatan;Jl. Letnan Soetopo Kav Kom. III A No.7, BSD Tangerang  Selatan, Banten;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;200;78;263
+3671043;RS Sari Asih Karawaci;Banten;Kota Tangerang;Jl. Imam Bonjol No. 38 Karawaci Sukajadi Kota Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;155;35;452
+3671209;RS Sari Asih Sangiang;Banten;Kota Tangerang;Jl. Moh. Toha KM 3,5 (Simpang Tiga Sangiang) Kota Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;184;30;241
+3671082;RS Islam Sari Asih Ar-rahmah;Banten;Kota Tangerang;Jl. K.S Tubun No. 44 Kelurahan Koang Jaya, Kecamatan Karawaci - Kota Tangerang, Banten;Rumah Sakit Umum;C;Non BLU/BLUD;Organisasi Islam ;101;33;117
+3603193;RS Siloam Hospitals Kelapa Dua;Banten;Tangerang;Jl. Kelapa Dua Raya No.1001 Kel. Kelapa Dua Kec. Kelapa Dua Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;105;31;153
+3601034;RS Ibu dan Anak Permata Ibunda;Banten;Pandeglang;Jl. Stadion Badak No 20 Saruni Majasari Pandeglang;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;64;14;76
+3674008;RS Ibu dan Anak Bunda Ciputat;Banten;Kota Tangerang Selatan;Jl.RE Martadinata No.30 Kec.Ciputat Kel. Ciputat Kota.Tangerang Selatan;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;25;18;60
+3604013;RS Umum Daerah dr. Drajat Prawiranegara ;Banten;Serang;Jl. Rumah Sakit No. 1 Serang;Rumah Sakit Umum;B;BLUD;Pemkab;464;45;724
+3671146;RS Umum Bhakti Asih;Banten;Kota Tangerang;Jl. Raden saleh No.10 Karang Tengah, Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;199;84;454
+3603191;RS Umum Daerah Pakuhaji;Banten;Tangerang;Jl. KH. Sa'adullah No. 88 Kelurahan Pakuhaji Kabupaten Tangerang;Rumah Sakit Umum;C;BLUD;Pemkab;135;70;274
+3674022;RS Umum Daerah Serpong Utara;Banten;Kota Tangerang Selatan;Jl. Raya Serpong Kel. Pakulonan Kec. Serpong Utara Kota Tangerang Selatan;Rumah Sakit Umum;C;BLUD;Pemkot;102;34;11
+3602045;RS Umum Daerah Malingping;Banten;Lebak;  Jl. Raya Saketi Km.01, Malingping Kab.Lebak;Rumah Sakit Umum;C;BLUD;Pemprop;192;52;145
+3671203;RS Primaya;Banten;Kota Tangerang;Jl. M.H. Thamrin No. 3 Kebon Nanas, Cikokol, Kota Tangerang 15117;Rumah Sakit Umum;B;Non BLU/BLUD;Perusahaan;180;110;791
+3603023;RS Qadr;Banten;Tangerang;Komp Islamic Village, Kelapa Dua, Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Organisasi Sosial;104;49;202
+3674005;RS Sari Asih Ciputat;Banten;Kota Tangerang Selatan;Jl. Otista Raya Sasak Tinggi No. 3 , RT 004/ RW 011,  Kelurahan Ciputat, Kecamatan Ciputat, Kota Tangerang Selatan, Banten, 15411;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;179;106;452
+3673004;RS Umum Daerah Banten;Banten;Kota Serang;  JL Syeh Nawawi Al-Bantani Kelurahan Banjarsari Kecamatan Cipocok Jaya Kota Serang, Propinsi Banten;Rumah Sakit Umum;B;BLUD;Pemprop;501;83;346
+3671214;RS Tiara ;Banten;Kota Tangerang;Jln Beringin Raya No.3-5 Kel.Nusajaya, Kec.Karawaci, Kota Tangerang, Provinsi Banten;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;78;48;191
+3671065;RS EMC Tangerang;Banten;Kota Tangerang;Jl. KH. Hasyim Ashari No. 24 Kel. Buaran Indah, Kec. Tangerang, Kota Tangerang, Prov. Banten 15119;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;205;108;730
+3674021;RS Ibu dan Anak Bina Medika;Banten;Kota Tangerang Selatan;Jl. Rasuna Said Kav B7/A5-08 Sektor 7 CBD Bintaro Jaya;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;42;44;44
+3673047;RS Andalucia;Banten;Kota Serang;Jl. Raya Serang-Pandeglang KM.05 Kelurahan Tembong, Kec. Cipocok Jaya;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;52;22;0
+3671208;RS Umum Daerah Kota Tangerang;Banten;Kota Tangerang;Jl Pulau Puteri Raya Perumahan Modernland, Kel. Kelapa Indah Kec. Tangerang;Rumah Sakit Umum;C;BLUD;Pemkot;234;55;548
+3601037;RS Alinda Husada;Banten;Pandeglang;Jl. Raya Tanjung Lesung KM. 1 Panimbang Kp. Neglasari Ds. Panmbangjaya Kec. Panimbang Kab. Pandeglang Prov. Banten;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;76;23;33
+3674206;RS Khusus Bedah Via Medika;Banten;Kota Tangerang Selatan;Jl. WR Supratman, RT/RW 005/006, Kel. Cempaka Putih, Kec. Ciputat Timur;Rumah Sakit Khusus Bedah;C;Non BLU/BLUD;Perusahaan;25;9;0
+3603188;RS Bunda Sejati;Banten;Kota Tangerang;Jl. Prabu Siliwangi No. 11 Jatiuwung Tangerang;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;82;40;52
+3603176;RS Umum Keluarga Kita;Banten;Tangerang;Jl. Raya PLP Curug KM. 4 No. 8 Curug;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;88;48;135
+3671222;RS Ibu dan Anak Makiyah;Banten;Kota Tangerang;Jl. KH. Kuding RT. 005 RW. 006, Kelurahan Belendung, Kecamatan Benda, Kota Tangerang, Provinsi Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;38;21;68
+3604035;RS Budiasih;Banten;Kota Serang;Jl. KH. Sohari No.39 Serang 42118;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;112;41;301
+3603169;Metro Hospitals Cikupa;Banten;Tangerang;JL. Raya Serang Km. 16,8 Cikupa;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;165;39;271
+3603047;RS Selaras;Banten;Tangerang;JL. RAYA LAPAN DESA SURADITA RT 007 RW 001 CISAUK KAB.TANGERANG, Desa/Kelurahan Suradita, Kec. Cisauk, Kab. Tangerang, Provinsi Banten,;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;80;20;36
+3601048;RS SHL;Banten;Pandeglang;Jl. Amd Lintas Timur No. 17 Ciputri, Kec. Kadu Hejo, Kab. Pandeglang, Prov. Banten;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;72;23;0
+3672022;RS Umum Daerah Kota Cilegon;Banten;Kota Cilegon;Jl. Kapten P. Tendean Km. 3 Cilegon;Rumah Sakit Umum;B;BLUD;Pemkot;233;92;489
+3674020;RS Mitra Keluarga Bintaro;Banten;Kota Tangerang Selatan;Jl. Raya Bintaro Utama Sektor III A;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;100;90;129
+3674205;RS. Mitra Keluarga Pamulang;Banten;Kota Tangerang Selatan;Jl. Moch Toha RT/RW 002/017;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;99;36;0
+3603082;RS Ichsan Medical Center;Banten;Kota Tangerang Selatan;Jl. Raya Jombang No. 56 , Kelurahan Jombang,  Kecamatan Ciputat, Kota Tangerang Selatan, Banten;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;107;47;146
+3671216;RS Rumah Indonesia Sehat;Banten;Kota Tangerang Selatan;Jl. Lengkong Gudang Timur Raya No. 777 BSD - Tangerang Selatan ;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;100;32;243
+3671080;RS Mayapada;Banten;Kota Tangerang;Jl. Honoris Raya Kav. 6 , Kota Modern, Tangerang;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;222;71;912
+3674003;RS Ibu dan Anak Permata Sarana Husada;Banten;Kota Tangerang Selatan;Jl. Pamulang Permai Blok D3 No. 1-3;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;36;17;55
+3671217;RS Ibu dan Anak Karunia Bunda;Banten;Kota Tangerang;Jl. Aria Santika No. 28, Kel. Margasari, Kec. Karawaci, Kota Tangerang, Provinsi Banten, 15113;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;28;19;52
+3603168;RS Suci Paramita;Banten;Tangerang;Jl. Raya Serang Km. 28,5 Kawasan Industri CCM Kav. F 1 - 8 Cangkudu, Balaraja;Rumah Sakit Umum;D;Non BLU/BLUD;Organisasi Sosial;55;29;67
+3671218;RS Ibu dan Anak PKU Muhammadiyah Cipondoh;Banten;Kota Tangerang;Jl. Maulana Hasanudin No. 63, Kelurahan Cipondoh, Kecamatan Cipondoh, Kota Tangerang, Provinsi Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Organisasi Islam ;35;19;79
+3603178;RS Ibu dan Anak Bunda Sejahtera;Banten;Tangerang;Jl.Puri Agung No.3 Pondok Makmur Kel.Kuta Baru Kec.Pasar kemis;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;29;20;111
+3603010;RS Umum Daerah Kabupaten Tangerang;Banten;Tangerang;Jl. A Yani No. 9 Tangerang Kota Tangerang;Rumah Sakit Umum;B;BLUD;Pemkab;329;138;1344
+3603173;RS Ibu dan Anak Harapan Mulia;Banten;Tangerang;Jl. Raya Pemda Tigaraksa RT 001/RW 001 Kel/Desa Matagara Kecamatan Tigaraksa Kabupaten Tangerang Provinsi Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;77;16;82
+3671221;RS Ibu dan Anak Pratiwi;Banten;Kota Tangerang;Jl. RHM Noeradji Kel. Sumur Pacing Kec. Karawaci;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;38;11;46
+3602012;RS Kartini;Banten;Lebak;Jl. Sunan Kalijaga No. 325, Blok Papanggo, Cijoro Pasir, Rangkasbitung, Lebak, Banten;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;156;31;233
+3674013;RS Ibu dan Anak Buah Hati Pamulang;Banten;Kota Tangerang Selatan;Jl Raya Siliwangi No 189 Kelurahan Benda Baru, Kecamatan Pamulang;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;50;31;101
+3603104;RS Ibu dan Anak Selaras;Banten;Tangerang;Jl. Raya Serang KM. 18,5 Desa Bojong Kec. Cikupa ;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;43;21;67
+3603195;RS Mentari;Banten;Tangerang;Jl. Raya Legok KM 4 Bojong Nangka, Kelapa Dua, Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;109;26;229
+3674113;RS Eka;Banten;Kota Tangerang Selatan;Central Business Distric Lot IX, BSD City.;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;203;102;875
+3671207;RS Dinda;Banten;Kota Tangerang;Jl. Galuh No. 2 Jatiuwung, Cibodas - Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;134;51;206
+3674014;RS Hermina Serpong;Banten;Kota Tangerang Selatan;Jl. Raya Puspitek No.km 1 No 99, Buaran, Kec. Serpong, Kota Tangerang Selatan, Banten 15310;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;125;81;227
+3674204;RS Umum Daerah Pondok Aren;Banten;Kota Tangerang Selatan;Jalan Raya Pondok Betung, Kelurahan Pondok Betung, Kecamatan Pondok Aren, Kota Tangerang Selatan, Provinsi Banten;Rumah Sakit Umum;C;Non BLU/BLUD;Pemkot;93;21;0
+3604002;RS Hermina Ciruas;Banten;Serang;Jl.Raya Serang-Jakarta Km.9 Ds.Ranjeng Rt 01/01 Kec.Ciruas;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;280;49;362
+3603190;RS Ibu dan Anak Ilanur;Banten;Tangerang;Jl. Raya Serang KM 24 No.1 Balaraja, Kab. Tangerang, Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;52;29;53
+3671032;RSUP Dr. Sitanala Tangerang;Banten;Kota Tangerang;Jl. Dr Sitanala No. 99 Kota Tangerang;Rumah Sakit Umum;B;BLU;Kemkes ;250;69;606
+3671242;RS Umum Daerah Benda;Banten;Kota Tangerang;Jl. Halim Perdanakusuma, Desa/Kel. Jurumudi Baru Kec. Benda;Rumah Sakit Umum;D;Non BLU/BLUD;Pemkot;60;39;0
+3674016;RS Insan Permata;Banten;Kota Tangerang Selatan;Jl. Bhayangkara 1 No.68 Kel. Pakujaya Kec. Serpong Utara Tangerang Selatan;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;104;27;132
+3673012;RS Umum Daerah Kota Serang;Banten;Kota Serang;Jl. Raya Jakarta KM. 04 Lingk Kp. Turus Rt. 02 Rw. 11 Kelurahan Penancangan Kecamatan Cipocok Jaya;Rumah Sakit Umum;C;BLUD;Pemkot;128;11;153
+3672040;RS Citra sundari;Banten;Kota Cilegon;Jl. Temu Putih No. 100 Kel. Jombang Wetan Kec. Jombang, Kota Cilegon, Provinsi Banten;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;55;25;113
+3603189;RS UniMedika Sepatan;Banten;Tangerang;Jl. Raya Pakuhaji No. 3 RT. 002 RW. 001 Kel. Sepatan Kab. Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;146;19;71
+3603157;RS Umum Daerah Balaraja;Banten;Tangerang; Jl.Rumah Sakit NO. 88 Desa Tobat Kec. Balaraja;Rumah Sakit Umum;B;BLUD;Pemkab;196;58;154
+3671126;RS Murni Teguh Ciledug;Banten;Kota Tangerang;Jl. HOS Cokroaminoto (Ciledug Raya) No. 4A Kreo Selatan Larangan Tangerang 15156;Rumah Sakit Umum;C;BLUD;SWASTA/LAINNYA;170;34;372
+3604054;RS Tonggak Husada;Banten;Serang;Jl. Raya Bojonegara No 8 Kp. Tunggak Rt. 002 Rw. 002 Ds. Kertasana Kec. Bojonegara Kab. Serang Prov. Banten;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;58;19;15
+3671135;RS Mulya;Banten;Kota Tangerang;Jl.KH. Hasyim Ashari No. 18 Sudimara Pinang Pinang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;101;29;299
+3603172;RS St. Carolus Summarecon Serpong ;Banten;Tangerang;Jl Gading Golf Boulevard Kav. 08 Desa Cihuni Kec. Pagedangan;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;72;69;82
+3671211;RS Aqidah;Banten;Kota Tangerang;Jl. Raden Fatah No.40;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;54;25;111
+3671226;RS Mandaya Royal Puri;Banten;Kota Tangerang;Jl. Metland Boulevard Lot C3 Metland Cyber City RT. 001 RW. 002 Pondok Bahar;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;173;161;0
+3674193;RS Buah Hati Ciputat;Banten;Kota Tangerang Selatan;Jl Aria Putra No 399 Serua Indah;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;100;48;141
+3673011;RS Mata Achmad Wardi BWI-DD;Banten;Kota Serang;Jl. Raya Taktakan KM 01;Rumah Sakit Khusus Mata;C;Non BLU/BLUD;SWASTA/LAINNYA;21;23;43
+3673036;RS Sari Asih Serang;Banten;Kota Serang;Jl.Raya Jenderal Sudirman No.38, Kel.Penancangan, Kec.Cipocok, Kota Serang;Rumah Sakit Umum;B;Non BLU/BLUD;Perusahaan;226;70;442
+3603183;RS Umum BUN;Banten;Tangerang;Jl. Raya Kosambi Timur no.2 RT. 011/004, Kosambi  Timur, Kosambi;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;102;23;100
+3673049;RS Jannah;Banten;Kota Serang;Jl. KH. Abdul Hadi No. 20 RT.003/014 Kebon Jahe, Cipare;Rumah Sakit Umum;D;Non BLU/BLUD;Perorangan;51;9;0
+3602022;RS Misi Lebak;Banten;Lebak;Jl. Multatuli No. 41 Muara Ciujung Barat, Rangkasbitung, Banten.;Rumah Sakit Umum;C;Non BLU/BLUD;Organisasi Katholik;148;33;502
+3674004;RS Permata Pamulang;Banten;Kota Tangerang Selatan;Jl Raya Siliwangi No 1A Pondok Benda;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;100;84;309
+3671219;RS Ibu dan Anak Gebang Medika;Banten;Kota Tangerang;Jl Prabu Kian Santang No. 30 Rt. 001 Rw. 001 Kel. Gebang Raya Kec. Periuk Kota Tangerang Provinsi Banten ;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;34;20;75
+3671241;RS Metro Hospitals M. Toha;Banten;Kota Tangerang;Jl. Raya Mohammad Toha Km. 2  No. 1 Kel. Nambo Jaya Kecamatan Karawaci 15112;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;200;57;0
+3674168;RS Umum Daerah Kota Tangerang Selatan;Banten;Kota Tangerang Selatan; Jl. Pajajaran No.101, Kec.Pamulang, Kota Tangerang Selatan ;Rumah Sakit Umum;C;BLUD;Pemkot;178;38;300
+3671054;RS Siloam Hospitals Lippo Village;Banten;Tangerang;Jl. Siloam No. 6  Lippo Village Tangerang;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;300;72;1784
+3673010;RS Fatimah;Banten;Kota Serang;Jl. Raya Serang Cilegon KM 3,5 Kelurahan Drangong Kec. Taktakan, Kota Serang, Banten 42162;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;100;39;59
+3671224;RS Sari Asih Cipondoh;Banten;Kota Tangerang;Jl. Maulana Hasanudin No. 108 Kel. Cipondoh Makmur Kec. Cipondoh Kota Tangerang Provinsi Banten Kode Pos: 15148;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;215;36;168
+3672052;RS Umum Hermina Cilegon;Banten;Kota Cilegon;Kawasan PT. Bonauli Real Estate Jl. Terusan Bonakarta Rt 01/01;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;115;60;0
+3604024;RS Tk. IV Kencana Serang;Banten;Kota Serang;Jl. A. Yani No. 21-23 Serang ;Rumah Sakit Umum;C;Non BLU/BLUD;TNI AD;113;32;106
+3604047;RS Kurnia Serang;Banten;Serang;Jl. Raya Cilegon KM 8 Kramatwatu;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;103;36;121
+3672011;RS Krakatau Medika;Banten;Kota Cilegon;Jl. Semang Raya No. 01;Rumah Sakit Umum;B;Non BLU/BLUD;BUMN;230;125;335
+3603192;RS Mitra Keluarga Gading Serpong;Banten;Tangerang;Jl. Kp. Anggris, Kelurahan Medang, Kecamatan Pagedangan, Kabupaten Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;143;70;454
+3671136;RS Umum Hermina Tangerang;Banten;Kota Tangerang;Jl. KS, Tubun No.10 Kel. Pasar Baru Kec. Karawaci Kota Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;199;66;463
+3671205;RS Sari Asih Ciledug;Banten;Kota Tangerang;JL. HOS Cokroaminoto No 38 Ciledug, Desa/Kelurahan Sudimara Timur, Kec. Ciledug, Kota Tangerang, Provinsi Banten, Kode Pos: 15151;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;160;82;459
+3674071;RS Khusus Jiwa Dharma Graha;Banten;Kota Tangerang Selatan;Jl. Raya Astek No. 17 Lengkong Gudang Timur Serpong;Rumah Sakit Khusus Jiwa;C;Non BLU/BLUD;Organisasi Sosial;70;19;20
+3603182;RS Medika Lestari;Banten;Kota Tangerang;Jl. HOS Cokroaminoto Perum Pondok Lestari Blok C1 No.1-2 Ciledug, Kota Tangerang - Banten;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;101;41;177
+3671179;RS Mitra Husada;Banten;Tangerang;Jl. Kp. Melayu Barat No. 11A Teluk Naga - Tangerang -  Banten;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;101;25;185
+3674011;RS Ibu dan Anak Dhia;Banten;Kota Tangerang Selatan;Jl. Cendrawasih No. 90 Sawah Lama, Ciputat, Tangerang Selatan, Banten 15413;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;27;24;78
+3603186;RS Ibu dan Anak Assyifa ;Banten;Kota Tangerang;Jl. Paus Raya No.1, RT.002/RW.004, Karawaci Baru, Kec. Karawaci, Kota Tangerang, Banten 15116;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;36;18;129
+3671076;RS An-Nisa ;Banten;Kota Tangerang;Jl. Gatot Subroto No. 96 Km. 3 Kel. Uwung Jaya Kec. Cibodas Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;210;88;578
+3671201;RS Khusus THT-Bedah KL Proklamasi BSD;Banten;Kota Tangerang Selatan;Commercial Park Central Business of District BSD Kav.7 Tangerang Selatan;Rumah Sakit Khusus THT-KL;C;Non BLU/BLUD;SWASTA/LAINNYA;23;23;67
+3671210;Brawijaya Hospital Tangerang;Banten;Kota Tangerang;Jl. KH. Mas Mansyur No. 2 Kunciran Tangerang;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;109;46;240
+3603185;RS Umum Hermina Bitung;Banten;Tangerang;JL. RAYA SERANG KM 10 POS BITUNG KEC. CURUG KAB. TANGERANG - BANTEN ;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;128;60;333
+3603177;RS Permata Hati;Banten;Tangerang;Jl. Raya Serang KM. 12,5 Kp. Cirewed, Kel.Sukadamai Kec.Cikupa;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;64;19;56
+3604052;RS Otika Medika;Banten;Serang;Jl. Raya Serang Pandeglang KM. 11 Kampung Pertanian RT.003/RW.001 Desa Baros, Kecamatan Baros, Kabupaten Serang, Provinsi Banten.;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;50;15;39
+3604046;RS Benggala;Banten;Kota Serang;Jl. Yusuf Martadilaga No. 56 . RT 03 / RW 09. Kel Cipare. Kec Serang. Banten. 42117;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;52;16;0
+3674006;RS Syarif Hidayatullah;Banten;Kota Tangerang Selatan;Jl. Ir. H. Juanda No. 95, Ciputat Timur;Rumah Sakit Umum;C;BLU;Kementerian Lain;100;60;306
+3674015;RS Ibu dan Anak Vitalaya ;Banten;Kota Tangerang Selatan;Jl. Raya Siliwangi No. 50  Pondok Benda, Pamulang, Tangerang Selatan 15416;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;51;18;93
+3603196;RS Umum Primaya Pasar Kemis;Banten;Tangerang;Jl. Raya Pasar  RT. 004 RW. 002 Kel. Kutajaya Kec. Pasar Kemis;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;105;36;43
+3603146;RS Ibu dan Anak Tiara;Banten;Tangerang;Jl. Raya serang KM 14.5 No.1 Pasir Gadung;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;44;16;66
+3672034;RS Kurnia;Banten;Kota Cilegon;Jl. Jombang Masjid No.4 Cilegon;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;120;32;219
+3601010;RS Umum Daerah Berkah Pandeglang;Banten;Pandeglang;Jl. Raya Labuan KM. 5, Desa/Kelurahan Paluruhan, Kec Kaduhejo, Kab.Pandeglang, Provinsi Banten, Kode Pos 42253;Rumah Sakit Umum;B;BLUD;Pemkab;201;58;253
+3671223;RS Karang Tengah Medika;Banten;Kota Tangerang;Jl. Karyawan IV Kec Karang Tengah Ciledug ;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;100;31;201
+3671202;RS Hermina Ciledug;Banten;Kota Tangerang;Jl. Dr. Cipto Mangunkusumo No. 3 Kec. Ciledug;Rumah Sakit Umum;D;Non BLU/BLUD;Perusahaan;62;51;82
+3603210;RS Umum Daerah Tigaraksa;Banten;Tangerang;Jl. Tigaraksa-Adiyasa, Kel/Desa Kadu Agung, Kec. Tigaraksa, Kab. Tangerang, Prov Banten, Kode Pos: 15720;Rumah Sakit Umum;C;Non BLU/BLUD;Pemkab;117;16;0
+3603093;RS Ibu dan Anak Permata Dalima;Banten;Kota Tangerang Selatan;Bumi Serpong Damai Sektor 1-2 Blok K/5-UA/26-27,Tangerang;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;SWASTA/LAINNYA;29;24;78
+3673005;RS Umum Ibunda;Banten;Kota Serang;Jl. Ki Uju No. 1 Kaujon Masjid Kuno Kel. Serang Kec. Serang;Rumah Sakit Umum;D;Non BLU/BLUD;SWASTA/LAINNYA;65;28;51
+3604053;RS Bhayangkara Tk. IV Biddokkes Polda Banten;Banten;Kota Serang;Jl. Raya Serang Pandeglang KM. 2 Sempu Cipare Serang;Rumah Sakit Umum;C;Non BLU/BLUD;POLRI;104;23;93
+3674102;RS Premier Bintaro;Banten;Kota Tangerang Selatan;Jl. MH. Thamrin No. 1 Sektor 7 Bintaro Jaya Tangerang ;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;215;138;805
+3674171;RS Cinta Kasih;Banten;Kota Tangerang Selatan;Jl.Ciputat Baru Raya No.10, Ciputat;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;110;37;163
+3673035;RS Ibu dan Anak Puri Garcia;Banten;Kota Serang;Jl. Griya Purnama No. 99, Drangong, Kecamatan Taktakan, Kota Serang, Provinsi Banten;Rumah Sakit Khusus Ibu dan Anak;C;Non BLU/BLUD;Perusahaan;37;13;62
+3674018;RS Pondok Indah Bintaro Jaya;Banten;Kota Tangerang Selatan;CBD Emerald Blok CE/C No. 01, Boulevard Bintaro Jaya;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;125;114;340
+3671225;RS Hermina Periuk Tangerang;Banten;Kota Tangerang;Jl. Moh. Toha Kp. Nagrak RT.004/006 Kel.Periuk, Kec. Periuk;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;100;29;70
+3671021;RS Daan Mogot Kesdam Jaya;Banten;Kota Tangerang;Jl. Daan Mogot No. 59 Kota Tangerang;Rumah Sakit Umum;D;Non BLU/BLUD;TNI AD;50;14;84
+3674007;RS Hermina Ciputat;Banten;Kota Tangerang Selatan;Jl Ciputat Raya No 2 Kertamukti Ciputat;Rumah Sakit Umum;C;Non BLU/BLUD;Perusahaan;196;69;343
+3603175;RS Umum Murni Asih;Banten;Tangerang;Jl. Raya Legok No.86, Rt 2/Rw 1 Kelurahan Medang, Kecamatan Pagedangan, Kabupaten Tangerang -15810 Banten ;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;109;39;86
+3673048;RS Citra Arafiq Serang;Banten;Kota Serang;Jl. Raya Serang-Pandeglang, Tembong, Cipocok Jaya;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;162;34;0
+3603115;RS EMC Alam Sutera;Banten;Kota Tangerang Selatan;Jl. Alam Sutera Boulevard Kav. 25 Tangerang;Rumah Sakit Umum;B;Non BLU/BLUD;SWASTA/LAINNYA;202;122;217
+3601036;RS Umum Aulia Pandeglang;Banten;Pandeglang;Jl. Raya Labuan-Pandeglang KM. 12 Menes Pandeglang 42262. Kp Soreang Desa Menes Kecamatan Menes. Desa Menes, Kecamatan Menes, Kabupaten Pandeglang, Provinsi Banten.;Rumah Sakit Umum;D;Non BLU/BLUD;Pemkab;63;17;102
+3604066;RS Bethsaida Hospital Serang;Banten;Serang;Jl. Lingkar Selatan Cilegon Km. 1,8 , Kel/Desa Harjatani, Kec. Kramatwatu;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;118;66;0
+3603180;RS Ciputra ;Banten;Tangerang;Jl. Citra Raya Boulevard Blok V.00/08, Tangerang;Rumah Sakit Umum;B;Non BLU/BLUD;Perusahaan;201;78;533
+3671124;RS Melati;Banten;Kota Tangerang;Jl. Merdeka No. 92, Kelurahan Gerendeng, Kecamatan Karawaci, Kota Tangerang, Provinsi Banten.;Rumah Sakit Umum;C;Non BLU/BLUD;SWASTA/LAINNYA;101;36;286

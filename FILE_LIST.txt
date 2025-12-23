@@ -1,0 +1,49 @@
+🏥 CrowdAID - Complete Project Files
+=====================================
+
+📱 APPLICATIONS (3 files)
+--------------------------
+✓ CrowdAID.html (38 KB) - Self-contained web app with Google Maps
+✓ app.py (17 KB) - Streamlit application with AI classification
+✓ ml_predictor.py (7.6 KB) - ML predictor class
+
+📊 DATASETS (2 files)
+---------------------
+✓ Hospital_Banten.csv (23 KB) - 130 Rumah Sakit
+✓ Faskes_BPJS_Banten_2019.csv (274 KB) - 913 Faskes BPJS
+
+🤖 ML MODELS (5 files)
+----------------------
+✓ model_random_forest.pkl (1.3 MB) - Trained RF model, 91.76% accuracy
+✓ model_decision_tree.pkl (6.4 KB) - Backup DT model, 93.96% accuracy
+✓ label_encoders.pkl (644 B) - Categorical encoders
+✓ model_metadata.json (1.4 KB) - Model configuration & metrics
+✓ feature_columns.json (105 B) - Feature names
+
+📚 DOCUMENTATION (6 files)
+--------------------------
+✓ README.md (5.6 KB) - Quick overview & installation
+✓ PANDUAN_LENGKAP.md (18 KB) - Complete 25+ page user guide
+✓ ML_MODEL_DOCUMENTATION.md (13 KB) - ML technical documentation
+✓ QUICKSTART_ML.md (8.3 KB) - Quick ML integration guide
+✓ PROJECT_SUMMARY.md (12 KB) - Complete project summary
+✓ requirements.txt (32 B) - Python dependencies
+
+TOTAL: 16 files | 1.7 MB
+
+🚀 QUICK START
+--------------
+Option 1 (HTML): Open CrowdAID.html in browser
+Option 2 (Streamlit): pip install -r requirements.txt && streamlit run app.py
+Option 3 (ML): from ml_predictor import CrowdAIDPredictor
+
+✨ PROJECT HIGHLIGHTS
+---------------------
+✓ 3 working implementations (HTML, Streamlit, ML)
+✓ Machine Learning: 91.76% accuracy
+✓ Dataset: 1,043 healthcare facilities in Banten
+✓ Production-ready code
+✓ Complete documentation
+✓ SDG #3: Good Health and Well-being
+
+© 2025 CrowdAID - AI Project COMP6056001

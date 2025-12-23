@@ -1,0 +1,65 @@
+{
+  "model_type": "Random Forest Classifier",
+  "n_estimators": 100,
+  "max_depth": 10,
+  "accuracy_train": 0.9175824175824175,
+  "accuracy_test": 0.9175824175824175,
+  "feature_importance": [
+    {
+      "feature": "condition_encoded",
+      "importance": 0.5534922076934383
+    },
+    {
+      "feature": "hospital_class_encoded",
+      "importance": 0.1391395089182893
+    },
+    {
+      "feature": "capacity",
+      "importance": 0.1336468225550326
+    },
+    {
+      "feature": "staff",
+      "importance": 0.07652621309891555
+    },
+    {
+      "feature": "services",
+      "importance": 0.06857074402953243
+    },
+    {
+      "feature": "hospital_type_encoded",
+      "importance": 0.028624503704791766
+    }
+  ],
+  "training_samples": 728,
+  "test_samples": 182,
+  "feature_columns": [
+    "hospital_type_encoded",
+    "hospital_class_encoded",
+    "capacity",
+    "services",
+    "staff",
+    "condition_encoded"
+  ],
+  "conditions": [
+    "Anak",
+    "Banyak Spesialis",
+    "Bedah",
+    "Gejala Ringan",
+    "Gigi",
+    "Kebidanan",
+    "Penyakit Dalam"
+  ],
+  "hospital_types": [
+    "Rumah Sakit Khusus Bedah",
+    "Rumah Sakit Khusus Ibu dan Anak",
+    "Rumah Sakit Khusus Jiwa",
+    "Rumah Sakit Khusus Mata",
+    "Rumah Sakit Khusus THT-KL",
+    "Rumah Sakit Umum"
+  ],
+  "hospital_classes": [
+    "B",
+    "C",
+    "D"
+  ]
+}
