@@ -39,7 +39,7 @@ The application serves as an **MVP (Minimum Viable Product)** with real-time occ
 
 * **Language:** Python
 * **Framework:** Streamlit (for Web Interface)
-* **ML Libraries:** Scikit-Learn, XGBoost, Pandas, NumPy
+* **ML Libraries:** Scikit-Learn, Pandas, NumPy
 * **Data Processing:** LabelEncoder, Train-Test Split, Feature Engineering
 
 ---
@@ -105,18 +105,12 @@ CrowdAID/
 ├── model_random_forest.pkl             # Trained Random Forest model
 ├── model_decision_tree.pkl             # Trained Decision Tree model
 ├── label_encoders.pkl                  # Feature encoders
-└── docs/                               # Documentation
-    ├── PANDUAN_LENGKAP.md
-    ├── ML_MODEL_DOCUMENTATION.md
-    └── QUICKSTART_OCCUPANCY.md
 ```
 
 ---
 
 ## 🎓 Academic Information
 
-**Course:** COMP6056001 - Artificial Intelligence  
-**Semester:** Odd Semester 2024/2025  
 **Institution:** BINUS University - School of Computer Science  
 **Topic:** SDG #3 - Good Health and Well-being  
 
@@ -139,12 +133,10 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Dataset from **Kementerian Kesehatan RI** & **BPJS Kesehatan**
+- Dataset from **Kaggle**
 - Inspired by hospital occupancy systems in Singapore, Taiwan, and South Korea
 - SDG #3: Good Health and Well-being Initiative
 
 ---
-
-**⭐ If you find this project useful, please give it a star!**
 
 Made with ❤️ for better healthcare access in Indonesia
